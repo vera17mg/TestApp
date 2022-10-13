@@ -1,0 +1,40 @@
+.f-{
+  &el{
+    justify-content: space-between;
+    align-items: center;
+    &_txt{
+      width: 40%;
+    }
+    &_input{
+      width: 50%;
+    }
+  }
+}
+.l-{
+  &title{
+    font-weight: 600;
+  }
+}
+.ip-{
+  &main{
+    padding: 20px;
+  }
+}
+.ol-scroll-area{
+  height: 100%; margin-top: 12px;
+  &_cards{
+    margin: 8px;
+  }
+}
+.eli-{
+  &main{
+    width: max-content;
+    height: max-content;
+    border: grey solid 1px;
+    border-radius: 50px;
+    padding: 4px 8px;
+    &_txt{
+      margin-right: 8px
+    }
+  }
+}

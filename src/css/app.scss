@@ -1,0 +1,23 @@
+// app global css in SCSS form
+@import "forms.style";
+
+.full-width-el{
+  width: 100%;
+}
+.gap-4{
+  gap: 4px;
+}
+.gap-8{
+  gap: 8px;
+}
+.gap-16{
+  gap: 16px;
+}
+.title-style{
+  font-size: 16px;
+  font-weight: 600
+}
+.edit-txt{
+  color: grey;
+  font-style: italic
+}
